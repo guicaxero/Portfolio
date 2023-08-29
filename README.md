@@ -1,5 +1,17 @@
- <h1>Portfolio sobre meu trabalho front-end</h1>
+  #Portfolio sobre meu trabalho front-end
 
+  ![image]()
+
+ ## Ferramentas utilizadas 
+
+*HTML
+
+*CSS
+
+*Flex-box
+
+##Feito por:
+
+##Guilherme Caxero
   
->Status do projeto: Em desenvolvimento
-
+>Status do projeto: Pronto!
