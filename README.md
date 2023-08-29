@@ -4,11 +4,11 @@
 
  ## Ferramentas utilizadas 
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Flex-box
+* Flex-box
 
 ## Feito por:
 
