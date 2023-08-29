@@ -1,4 +1,4 @@
-  #Portfolio sobre meu trabalho front-end
+  # Portfolio sobre meu trabalho front-end
 
   ![image]()
 
@@ -10,8 +10,8 @@
 
 *Flex-box
 
-##Feito por:
+## Feito por:
 
-##Guilherme Caxero
+## Guilherme Caxero
   
 >Status do projeto: Pronto!
